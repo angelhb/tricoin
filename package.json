@@ -7,7 +7,7 @@
 		"npm": ">=5.3.0"
 	},
 	"scripts": {
-		"start": "node tokenChaincode.js"
+		"start": "node tokenChaincode2.js"
 	},
 	"engine-strict": true,
 	"dependencies": {
